@@ -146,3 +146,5 @@ def resta(a,b):
     return a-b 
 ``` 
  >[!WARNING] en el proceso de documentacion teneer encuenta de incluir al menos lo siguiente:1. breve explicacion sobre que hace la funcion 2. especificaciones y caracteristicas de los parametros  incluyendo sus tipos. 3. restricciones de la funcion. 4. el valor retorna y sus caracteristicas 
+ ### type-hints (anotaciones de tipo)
+ nos permite indicar que tipo de datos recibira una variable, parametro y el valor de retorno 
