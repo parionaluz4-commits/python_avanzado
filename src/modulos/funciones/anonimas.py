@@ -13,3 +13,6 @@ if es_par(4):
     print("es par")
 else:
     print("es impar")
+# segunda forma 
+si_es_par=lambda n: "es par" if n%==0 else "es impar"
+"print(_si_es_par(100))"
